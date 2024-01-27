@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be635d5c.css",
+    "main.js": "/static/js/main.31f7191c.js",
+    "static/js/787.e3926af3.chunk.js": "/static/js/787.e3926af3.chunk.js",
+    "static/media/cross.png": "/static/media/cross.dc4caeb97b321a1cddb1.png",
+    "static/media/about.png": "/static/media/about.73555cf405da88b987a8.png",
+    "static/media/roadmap.jpg": "/static/media/roadmap.0b539b79e10873b85720.jpg",
+    "static/media/planet.png": "/static/media/planet.2ca2b2213264131039c3.png",
+    "static/media/Futter.png": "/static/media/Futter.de88fd126a81a918aaff.png",
+    "static/media/star1.png": "/static/media/star1.5cd7dd82fab48c5754db.png",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/star3.png": "/static/media/star3.53e7182b7e3a5e442284.png",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/star2.png": "/static/media/star2.73a43b39d113ca72c476.png",
+    "static/media/imgForMission.png": "/static/media/imgForMission.0cb3d4bf6dd1af024943.png",
+    "index.html": "/index.html",
+    "main.be635d5c.css.map": "/static/css/main.be635d5c.css.map",
+    "main.31f7191c.js.map": "/static/js/main.31f7191c.js.map",
+    "787.e3926af3.chunk.js.map": "/static/js/787.e3926af3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be635d5c.css",
+    "static/js/main.31f7191c.js"
+  ]
+}
