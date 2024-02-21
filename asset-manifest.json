@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.df7195e1.css",
-    "main.js": "/static/js/main.28a93bec.js",
-    "static/js/787.e3926af3.chunk.js": "/static/js/787.e3926af3.chunk.js",
-    "static/media/cross.png": "/static/media/cross.dc4caeb97b321a1cddb1.png",
-    "static/media/about.png": "/static/media/about.73555cf405da88b987a8.png",
-    "static/media/roadmap.jpg": "/static/media/roadmap.0b539b79e10873b85720.jpg",
-    "static/media/planet.png": "/static/media/planet.2ca2b2213264131039c3.png",
-    "static/media/Futter.png": "/static/media/Futter.de88fd126a81a918aaff.png",
-    "static/media/star1.png": "/static/media/star1.5cd7dd82fab48c5754db.png",
-    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
-    "static/media/star3.png": "/static/media/star3.53e7182b7e3a5e442284.png",
-    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
-    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
-    "static/media/star2.png": "/static/media/star2.73a43b39d113ca72c476.png",
-    "static/media/imgForMission.png": "/static/media/imgForMission.0cb3d4bf6dd1af024943.png",
+    "main.css": "/static/css/main.5d086c3b.css",
+    "main.js": "/static/js/main.05480a3e.js",
+    "static/js/592.0ee63963.chunk.js": "/static/js/592.0ee63963.chunk.js",
+    "static/media/about.png": "/static/media/about.2cd2e831ecb7831259c4.png",
+    "static/media/team.png": "/static/media/team.38caccd535a2e8657dc9.png",
+    "static/media/img_1.png": "/static/media/img_1.fb4a990ff37998483d43.png",
+    "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
+    "static/media/Inter-Medium.ttf": "/static/media/Inter-Medium.3f7acfe50aad7ad68548.ttf",
+    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/design1.png": "/static/media/design1.9f646dc0aa7958733ded.png",
+    "static/media/design2.png": "/static/media/design2.670c334fa29e435a0964.png",
+    "static/media/imgApp.png": "/static/media/imgApp.bdf7ee09e7f774b3d326.png",
+    "static/media/Neucha-Regular.ttf": "/static/media/Neucha-Regular.543eb5219232aab34519.ttf",
+    "static/media/appStore.png": "/static/media/appStore.bd288645a20c76141c03.png",
+    "static/media/bottomText.png": "/static/media/bottomText.cbaae6e61f2a0a395307.png",
+    "static/media/LogoForAboutPage.png": "/static/media/LogoForAboutPage.130b75d3b268915695ae.png",
     "index.html": "/index.html",
-    "main.df7195e1.css.map": "/static/css/main.df7195e1.css.map",
-    "main.28a93bec.js.map": "/static/js/main.28a93bec.js.map",
-    "787.e3926af3.chunk.js.map": "/static/js/787.e3926af3.chunk.js.map"
+    "main.5d086c3b.css.map": "/static/css/main.5d086c3b.css.map",
+    "main.05480a3e.js.map": "/static/js/main.05480a3e.js.map",
+    "592.0ee63963.chunk.js.map": "/static/js/592.0ee63963.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df7195e1.css",
-    "static/js/main.28a93bec.js"
+    "static/css/main.5d086c3b.css",
+    "static/js/main.05480a3e.js"
   ]
 }
